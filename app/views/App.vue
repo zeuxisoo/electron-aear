@@ -13,7 +13,7 @@
                 <div class="navbar-collapse collapse navbar-responsive-collapse">
                     <ul class="nav navbar-nav">
                         <li>
-                            <a>Details</a>
+                            <a v-on:click="openDevTools($event)">Details</a>
                         </li>
                     </ul>
 
