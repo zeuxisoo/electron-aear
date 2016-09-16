@@ -26,7 +26,7 @@ const openMainWindow = () => {
 
     mainWindow = new BrowserWindow({
         width : 800,
-        height: 650,
+        height: 390,
         frame : false,
         resizable: false,
         center: true

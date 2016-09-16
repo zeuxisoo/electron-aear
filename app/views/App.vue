@@ -55,7 +55,7 @@ body {
 
 .view {
     overflow: auto;
-    max-height: 586px;
+    max-height: 333px;
 }
 
 /* not working when devtootls openned */
