@@ -22,6 +22,6 @@ Run app
 
 Run
 
-    cd /path/to/electron-irx
+    cd /path/to/electron-aear
 
     bash scripts/build.sh
